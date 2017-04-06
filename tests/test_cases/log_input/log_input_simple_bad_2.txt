@@ -1,0 +1,1 @@
+gate.ps.cae.ntt.jp - - [13/Jul/1995:03:19:23 -0400] "GET /images/b%3Acables.jpg HTTP/1.0" 200 338399

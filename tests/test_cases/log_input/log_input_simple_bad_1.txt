@@ -1,0 +1,1 @@
+intospa.aball.de - - [13/Jul/1995:02:54:42 -0400] "GET /shuttle/missions/sts-69/mission-sts-69.htmlhttp://hamburg.bda.de:800/bda/index_germany.html HTTP/1.0" 404 -
